@@ -1,0 +1,139 @@
+# 🧑‍💻 CURSO DE POSTGRESQL PARA ENGENHEIRO DE DADOS JÚNIOR
+
+O objetivo deste curso é fornecer uma base sólida em PostgreSQL, cobrindo desde a instalação até conceitos essenciais, para que você consiga aplicar os conhecimentos diretamente no seu dia a dia de trabalho com dados.
+
+---
+
+## MÓDULO 1: INTRODUÇÃO AO POSTGRESQL
+**Objetivo:** Compreender o que é o PostgreSQL, suas características e onde ele é utilizado.
+
+**Conteúdo:**
+- O que é o PostgreSQL
+- Características principais do PostgreSQL
+- Casos de uso e vantagens
+- Diferenças entre bancos de dados relacionais e NoSQL
+
+---
+
+## MÓDULO 2: INSTALAÇÃO E CONFIGURAÇÃO
+**Objetivo:** Instalar e configurar o PostgreSQL no seu ambiente de desenvolvimento.
+
+**Conteúdo:**
+- Instalação do PostgreSQL em diferentes sistemas operacionais (Windows, macOS, Linux)
+- Instalação do pgAdmin para administração gráfica
+- Configuração do PostgreSQL (acesso remoto, ajustes de segurança)
+- Primeiros passos no terminal (pSQL)
+
+---
+
+## MÓDULO 3: CONCEITOS BÁSICOS DE BANCO DE DADOS RELACIONAL
+**Objetivo:** Compreender os conceitos fundamentais do modelo relacional.
+
+**Conteúdo:**
+- O que são tabelas, colunas e registros
+- Tipos de dados no PostgreSQL
+- Chaves primárias e estrangeiras
+- Integridade referencial
+- Normalização (1NF, 2NF, 3NF)
+
+---
+
+## MÓDULO 4: CRIANDO E GERENCIANDO BANCO DE DADOS
+**Objetivo:** Criar e gerenciar bancos de dados no PostgreSQL.
+
+**Conteúdo:**
+- Criação de bancos de dados e tabelas
+- Inserção de dados (INSERT)
+- Atualização de dados (UPDATE)
+- Excluindo dados (DELETE)
+- Visualizando dados (SELECT)
+
+---
+
+## MÓDULO 5: CONSULTAS BÁSICAS COM SQL
+**Objetivo:** Aprender a realizar consultas simples usando SQL.
+
+**Conteúdo:**
+- SELECT e WHERE
+- ORDER BY e LIMIT
+- Consultas com operadores lógicos (AND, OR, NOT)
+- Funções de agregação (COUNT, SUM, AVG, MIN, MAX)
+- Agrupando dados com GROUP BY
+
+---
+
+## MÓDULO 6: JOINS E SUBCONSULTAS
+**Objetivo:** Entender como combinar dados de múltiplas tabelas.
+
+**Conteúdo:**
+- Tipos de JOIN: INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN
+- Subconsultas (Subqueries) em SELECT
+- Joins com múltiplas tabelas
+- Exemplos práticos de joins em um cenário de dados reais
+
+---
+
+## MÓDULO 7: ÍNDICES E PERFORMANCE
+**Objetivo:** Compreender a importância dos índices e como melhorar a performance das consultas.
+
+**Conteúdo:**
+- O que são índices e por que são importantes
+- Criando índices no PostgreSQL
+- Tipos de índices no PostgreSQL
+- Analisando e otimizando consultas com EXPLAIN
+
+---
+
+## MÓDULO 8: MANIPULAÇÃO AVANÇADA DE DADOS
+**Objetivo:** Aprender como manipular dados de forma mais avançada.
+
+**Conteúdo:**
+- Funções de janela (Window Functions) – ROW_NUMBER(), RANK(), etc.
+- Trabalhando com datas e horas
+- Transformações com CASE WHEN
+- Utilizando funções agregadas avançadas
+- CTE (Common Table Expressions)
+
+---
+
+## MÓDULO 9: TRANSAÇÕES E CONTROLE DE CONCURRENCY
+**Objetivo:** Compreender o gerenciamento de transações e concorrência no PostgreSQL.
+
+**Conteúdo:**
+- O que são transações
+- Comandos COMMIT, ROLLBACK e SAVEPOINT
+- Controle de concorrência (isolation levels)
+- Deadlocks e como preveni-los
+
+---
+
+## MÓDULO 10: BACKUP E RECUPERAÇÃO DE DADOS
+**Objetivo:** Aprender como realizar backups e restaurar dados.
+
+**Conteúdo:**
+- Tipos de backup no PostgreSQL (lógico, físico)
+- Comandos de backup: pg_dump, pg_restore
+- Recuperação de dados a partir de backups
+
+---
+
+## MÓDULO 11: ADMINISTRAÇÃO BÁSICA E SEGURANÇA
+**Objetivo:** Introdução à administração básica e boas práticas de segurança.
+
+**Conteúdo:**
+- Gerenciamento de usuários e permissões
+- Privilégios de acesso
+- Logando e monitorando a atividade do banco
+- Estratégias de segurança no PostgreSQL
+
+---
+
+## MÓDULO 12: PROJETOS PRÁTICOS E APLICAÇÃO NO DIA A DIA
+**Objetivo:** Aplicar os conhecimentos adquiridos em projetos práticos.
+
+**Conteúdo:**
+- Criando um banco de dados para uma aplicação simples
+- Projeto de um pipeline de dados básico (extração, transformação e carregamento)
+- Integração com Python (via psycopg2 ou SQLAlchemy)
+
+---
