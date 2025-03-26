@@ -1,0 +1,7 @@
+pip install psycopg2 #PARA CONEXAO COM BANCO DE DADOS POSTGRESQL
+pip install openpyx1 #PARA TRABALHAR COM ARQUIVOS EXCEL ( XLSX)
+pip install pandas # para manipulacao e analise de dados 
+
+
+para upgrade 
+pip install --upgrade pandas

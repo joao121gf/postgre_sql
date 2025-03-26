@@ -1,0 +1,4 @@
+pip install virtualenv
+python -m venv sgbds (nome do ambiente)
+sgbds/script/activate
+
