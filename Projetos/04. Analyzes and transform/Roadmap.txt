@@ -1,0 +1,9 @@
+Objetivo
+Criar um banco de dados relacional no PostgreSQL.
+
+Inserir dados simulados em massa.
+
+Escrever muitas queries SQL para limpeza, transformação e análise.
+
+Integrar com Python (Pandas) para processar e visualizar os dados.
+
